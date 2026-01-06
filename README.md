@@ -3,8 +3,8 @@
 This project analyzes a **Finance SaaS company** using real-world style data to understand **revenue, profit, and customer churn**.
 
 The goal of this project is to show how data is used in a SaaS business to track performance and customer behavior.
-<img width="957" height="735" alt="FinTrack – SaaS Business Dashboard" src="https://github.com/user-attachments/assets/e129c3e2-1746-4cba-97d2-5ad679ecf3e9" />
 
+<img width="1014" height="739" alt="FinTrack – SaaS Business Dashboard" src="https://github.com/user-attachments/assets/1a5dacc0-88b6-4ff3-b1fb-15a51db59b73" />
 
 ## 🔍 What was done
 
